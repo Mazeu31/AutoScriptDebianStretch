@@ -22,7 +22,7 @@
 <h3 align="center">Installation (DigitalOcean)</h3>
 
 <p align="center">
-wget https://raw.githubusercontent.com/matskie/AutoScriptDebianStretch/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
+wget https://raw.githubusercontent.com/johndesu090/AutoScriptDebianStretch/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
 </p>
 
 <h3 align="center">Installation (VULTR)</h3>
